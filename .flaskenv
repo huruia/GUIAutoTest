@@ -1,0 +1,2 @@
+FLASK_APP=guiautotest
+FLASK_ENV=development
